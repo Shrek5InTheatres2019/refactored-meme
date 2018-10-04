@@ -1,0 +1,12 @@
+name: Example
+main: Example/Main
+version: 1.0.0
+api: 3.2.3
+
+commands:
+ example1:
+  description: "Example1 command"
+  usage: "/example1"
+ example2:
+  description: "Example2 command with arguments"
+  usage: "/example2 <args>"
