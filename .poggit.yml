@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Shrek5InTheatres2019/refactored-meme
+branches:
+- master
+projects:
+  refactored-meme:
+    path: ""
+...
