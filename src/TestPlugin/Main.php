@@ -1,6 +1,6 @@
 <?php
 
-namespace Main;
+namespace TestPlugin\Main;
 
 use pocketmine\plugin\PluginBase;
 
