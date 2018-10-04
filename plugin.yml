@@ -1,5 +1,5 @@
 name: Example
-main: Example/Main
+main: TestPlugin/Main
 version: 1.0.0
 api: 3.2.3
 
