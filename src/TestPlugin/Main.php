@@ -1,6 +1,6 @@
 <?php
 
-namespace Example;
+namespace TestPlugin\Main;
 
 use pocketmine\plugin\PluginBase;
 
@@ -30,4 +30,3 @@ class Main extends PluginBase{
         return false; //don't forget the return!
     }
 }
-?>
